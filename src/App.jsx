@@ -38,10 +38,9 @@ function App() {
       <Hand />
       <DevelopersInfo />
 
-      <span className='tablet hidden text-white'>Hey! Our website isn’t available on tablets and laptops yet. Please use your phone for now — support for all devices is coming soon!"</span>
-
-
-
+      <span className='tablet hidden text-white'>
+        Hey! Our website isn’t available on tablets and laptops yet. Please use your phone for now — support for all devices is coming soon!"
+      </span>
     </>
   )
 }

@@ -15,6 +15,7 @@ const Main = () => {
                 <video src={PhoneMainVideo} autoPlay loop muted playsInline className='w-screen h-screen object-cover z-10'></video>
                 :
                 <video src={PhoneMainVideo} autoPlay loop muted playsInline className='w-screen h-screen object-cover z-10'></video>
+                // in case i want second video
             }
         </div>
     )
